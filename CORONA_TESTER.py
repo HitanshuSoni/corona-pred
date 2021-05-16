@@ -47,7 +47,7 @@ text-align: center;
 }
 </style>
 <div class="footer">
-<p>Developed with ❤ by Hitanshu Soni</p>
+<p>Developed with ❤ by Hitanshu Soni || +91-9772418764 || +91-8764004137 || hitanshusoni10@gmail.com</p>
 </div>
 """
 st.markdown(footer,unsafe_allow_html=True)
